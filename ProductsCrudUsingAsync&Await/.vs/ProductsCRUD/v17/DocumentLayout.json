@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.Net_Training\\ProductsCRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B21136FF-AB91-42EB-9E98-9E49CE919671}|ProductsCRUD\\ProductsCRUD.csproj|d:\\.net_training\\productscrud\\productscrud\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B21136FF-AB91-42EB-9E98-9E49CE919671}|ProductsCRUD\\ProductsCRUD.csproj|solutionrelative:productscrud\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B21136FF-AB91-42EB-9E98-9E49CE919671}|ProductsCRUD\\ProductsCRUD.csproj|d:\\.net_training\\productscrud\\productscrud\\controllers\\customerproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B21136FF-AB91-42EB-9E98-9E49CE919671}|ProductsCRUD\\ProductsCRUD.csproj|solutionrelative:productscrud\\controllers\\customerproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B21136FF-AB91-42EB-9E98-9E49CE919671}|ProductsCRUD\\ProductsCRUD.csproj|d:\\.net_training\\productscrud\\productscrud\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B21136FF-AB91-42EB-9E98-9E49CE919671}|ProductsCRUD\\ProductsCRUD.csproj|solutionrelative:productscrud\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B21136FF-AB91-42EB-9E98-9E49CE919671}|ProductsCRUD\\ProductsCRUD.csproj|d:\\.net_training\\productscrud\\productscrud\\modals\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B21136FF-AB91-42EB-9E98-9E49CE919671}|ProductsCRUD\\ProductsCRUD.csproj|solutionrelative:productscrud\\modals\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B21136FF-AB91-42EB-9E98-9E49CE919671}|ProductsCRUD\\ProductsCRUD.csproj|d:\\.net_training\\productscrud\\productscrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B21136FF-AB91-42EB-9E98-9E49CE919671}|ProductsCRUD\\ProductsCRUD.csproj|solutionrelative:productscrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B21136FF-AB91-42EB-9E98-9E49CE919671}|ProductsCRUD\\ProductsCRUD.csproj|d:\\.net_training\\productscrud\\productscrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B21136FF-AB91-42EB-9E98-9E49CE919671}|ProductsCRUD\\ProductsCRUD.csproj|solutionrelative:productscrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B21136FF-AB91-42EB-9E98-9E49CE919671}|ProductsCRUD\\ProductsCRUD.csproj|d:\\.net_training\\productscrud\\productscrud\\data\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B21136FF-AB91-42EB-9E98-9E49CE919671}|ProductsCRUD\\ProductsCRUD.csproj|solutionrelative:productscrud\\data\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B21136FF-AB91-42EB-9E98-9E49CE919671}|ProductsCRUD\\ProductsCRUD.csproj|d:\\.net_training\\productscrud\\productscrud\\modals\\custproddetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B21136FF-AB91-42EB-9E98-9E49CE919671}|ProductsCRUD\\ProductsCRUD.csproj|solutionrelative:productscrud\\modals\\custproddetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B21136FF-AB91-42EB-9E98-9E49CE919671}|ProductsCRUD\\ProductsCRUD.csproj|d:\\.net_training\\productscrud\\productscrud\\modals\\customerproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B21136FF-AB91-42EB-9E98-9E49CE919671}|ProductsCRUD\\ProductsCRUD.csproj|solutionrelative:productscrud\\modals\\customerproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B21136FF-AB91-42EB-9E98-9E49CE919671}|ProductsCRUD\\ProductsCRUD.csproj|d:\\.net_training\\productscrud\\productscrud\\modals\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B21136FF-AB91-42EB-9E98-9E49CE919671}|ProductsCRUD\\ProductsCRUD.csproj|solutionrelative:productscrud\\modals\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B21136FF-AB91-42EB-9E98-9E49CE919671}|ProductsCRUD\\ProductsCRUD.csproj|d:\\.net_training\\productscrud\\productscrud\\migrations\\20240512152957_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B21136FF-AB91-42EB-9E98-9E49CE919671}|ProductsCRUD\\ProductsCRUD.csproj|solutionrelative:productscrud\\migrations\\20240512152957_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerProductController.cs",
+              "DocumentMoniker": "D:\\.Net_Training\\ProductsCRUD\\ProductsCRUD\\Controllers\\CustomerProductController.cs",
+              "RelativeDocumentMoniker": "ProductsCRUD\\Controllers\\CustomerProductController.cs",
+              "ToolTip": "D:\\.Net_Training\\ProductsCRUD\\ProductsCRUD\\Controllers\\CustomerProductController.cs",
+              "RelativeToolTip": "ProductsCRUD\\Controllers\\CustomerProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T15:33:55.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.Net_Training\\ProductsCRUD\\ProductsCRUD\\Program.cs",
+              "RelativeDocumentMoniker": "ProductsCRUD\\Program.cs",
+              "ToolTip": "D:\\.Net_Training\\ProductsCRUD\\ProductsCRUD\\Program.cs",
+              "RelativeToolTip": "ProductsCRUD\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAswA4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T15:28:50.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\.Net_Training\\ProductsCRUD\\ProductsCRUD\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductsCRUD\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\.Net_Training\\ProductsCRUD\\ProductsCRUD\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductsCRUD\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAuwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T15:32:57.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductDbContext.cs",
+              "DocumentMoniker": "D:\\.Net_Training\\ProductsCRUD\\ProductsCRUD\\Data\\ProductDbContext.cs",
+              "RelativeDocumentMoniker": "ProductsCRUD\\Data\\ProductDbContext.cs",
+              "ToolTip": "D:\\.Net_Training\\ProductsCRUD\\ProductsCRUD\\Data\\ProductDbContext.cs",
+              "RelativeToolTip": "ProductsCRUD\\Data\\ProductDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T15:21:34.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\.Net_Training\\ProductsCRUD\\ProductsCRUD\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductsCRUD\\appsettings.json",
+              "ToolTip": "D:\\.Net_Training\\ProductsCRUD\\ProductsCRUD\\appsettings.json",
+              "RelativeToolTip": "ProductsCRUD\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-12T15:28:19.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\.Net_Training\\ProductsCRUD\\ProductsCRUD\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "ProductsCRUD\\Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\.Net_Training\\ProductsCRUD\\ProductsCRUD\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "ProductsCRUD\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T15:33:22.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustProdDetails.cs",
+              "DocumentMoniker": "D:\\.Net_Training\\ProductsCRUD\\ProductsCRUD\\Modals\\CustProdDetails.cs",
+              "RelativeDocumentMoniker": "ProductsCRUD\\Modals\\CustProdDetails.cs",
+              "ToolTip": "D:\\.Net_Training\\ProductsCRUD\\ProductsCRUD\\Modals\\CustProdDetails.cs",
+              "RelativeToolTip": "ProductsCRUD\\Modals\\CustProdDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T16:04:04.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\.Net_Training\\ProductsCRUD\\ProductsCRUD\\Modals\\Product.cs",
+              "RelativeDocumentMoniker": "ProductsCRUD\\Modals\\Product.cs",
+              "ToolTip": "D:\\.Net_Training\\ProductsCRUD\\ProductsCRUD\\Modals\\Product.cs",
+              "RelativeToolTip": "ProductsCRUD\\Modals\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T15:19:53.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240512152957_Initial.cs",
+              "DocumentMoniker": "D:\\.Net_Training\\ProductsCRUD\\ProductsCRUD\\Migrations\\20240512152957_Initial.cs",
+              "RelativeDocumentMoniker": "ProductsCRUD\\Migrations\\20240512152957_Initial.cs",
+              "ToolTip": "D:\\.Net_Training\\ProductsCRUD\\ProductsCRUD\\Migrations\\20240512152957_Initial.cs",
+              "RelativeToolTip": "ProductsCRUD\\Migrations\\20240512152957_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T15:29:57.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\.Net_Training\\ProductsCRUD\\ProductsCRUD\\Modals\\Customer.cs",
+              "RelativeDocumentMoniker": "ProductsCRUD\\Modals\\Customer.cs",
+              "ToolTip": "D:\\.Net_Training\\ProductsCRUD\\ProductsCRUD\\Modals\\Customer.cs",
+              "RelativeToolTip": "ProductsCRUD\\Modals\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T15:19:38.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerProduct.cs",
+              "DocumentMoniker": "D:\\.Net_Training\\ProductsCRUD\\ProductsCRUD\\Modals\\CustomerProduct.cs",
+              "RelativeDocumentMoniker": "ProductsCRUD\\Modals\\CustomerProduct.cs",
+              "ToolTip": "D:\\.Net_Training\\ProductsCRUD\\ProductsCRUD\\Modals\\CustomerProduct.cs",
+              "RelativeToolTip": "ProductsCRUD\\Modals\\CustomerProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T15:20:36.516Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

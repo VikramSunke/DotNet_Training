@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.Net_Training\\Ado.Net_Task1_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E43FB333-70D7-4B11-9567-F0F192F124D3}|SQLDemo.csproj|d:\\.net_training\\ado.net_task1_1\\crudmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E43FB333-70D7-4B11-9567-F0F192F124D3}|SQLDemo.csproj|solutionrelative:crudmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E43FB333-70D7-4B11-9567-F0F192F124D3}|SQLDemo.csproj|d:\\.net_training\\ado.net_task1_1\\carsactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E43FB333-70D7-4B11-9567-F0F192F124D3}|SQLDemo.csproj|solutionrelative:carsactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E43FB333-70D7-4B11-9567-F0F192F124D3}|SQLDemo.csproj|d:\\.net_training\\ado.net_task1_1\\carsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E43FB333-70D7-4B11-9567-F0F192F124D3}|SQLDemo.csproj|solutionrelative:carsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarsActions.cs",
+              "DocumentMoniker": "D:\\.Net_Training\\Ado.Net_Task1_1\\CarsActions.cs",
+              "RelativeDocumentMoniker": "CarsActions.cs",
+              "ToolTip": "D:\\.Net_Training\\Ado.Net_Task1_1\\CarsActions.cs",
+              "RelativeToolTip": "CarsActions.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T05:03:58.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarsModel.cs",
+              "DocumentMoniker": "D:\\.Net_Training\\Ado.Net_Task1_1\\CarsModel.cs",
+              "RelativeDocumentMoniker": "CarsModel.cs",
+              "ToolTip": "D:\\.Net_Training\\Ado.Net_Task1_1\\CarsModel.cs",
+              "RelativeToolTip": "CarsModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T05:03:57.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "crudMethods.cs",
+              "DocumentMoniker": "D:\\.Net_Training\\Ado.Net_Task1_1\\crudMethods.cs",
+              "RelativeDocumentMoniker": "crudMethods.cs",
+              "ToolTip": "D:\\.Net_Training\\Ado.Net_Task1_1\\crudMethods.cs",
+              "RelativeToolTip": "crudMethods.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T05:03:48.422Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

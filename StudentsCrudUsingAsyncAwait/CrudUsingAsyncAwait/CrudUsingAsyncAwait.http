@@ -1,0 +1,6 @@
+@CrudUsingAsyncAwait_HostAddress = http://localhost:5075
+
+GET {{CrudUsingAsyncAwait_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.Net_Training\\Annotations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A11C637D-AC6F-4E47-AB51-ED1545F543F4}|Annotations\\Annotations.csproj|d:\\.net_training\\annotations\\annotations\\employeecodeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11C637D-AC6F-4E47-AB51-ED1545F543F4}|Annotations\\Annotations.csproj|solutionrelative:annotations\\employeecodeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11C637D-AC6F-4E47-AB51-ED1545F543F4}|Annotations\\Annotations.csproj|d:\\.net_training\\annotations\\annotations\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11C637D-AC6F-4E47-AB51-ED1545F543F4}|Annotations\\Annotations.csproj|solutionrelative:annotations\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11C637D-AC6F-4E47-AB51-ED1545F543F4}|Annotations\\Annotations.csproj|d:\\.net_training\\annotations\\annotations\\emaildomainattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11C637D-AC6F-4E47-AB51-ED1545F543F4}|Annotations\\Annotations.csproj|solutionrelative:annotations\\emaildomainattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11C637D-AC6F-4E47-AB51-ED1545F543F4}|Annotations\\Annotations.csproj|d:\\.net_training\\annotations\\annotations\\annotations.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A11C637D-AC6F-4E47-AB51-ED1545F543F4}|Annotations\\Annotations.csproj|solutionrelative:annotations\\annotations.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11C637D-AC6F-4E47-AB51-ED1545F543F4}|Annotations\\Annotations.csproj|d:\\.net_training\\annotations\\annotations\\modals\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11C637D-AC6F-4E47-AB51-ED1545F543F4}|Annotations\\Annotations.csproj|solutionrelative:annotations\\modals\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeCodeAttribute.cs",
+              "DocumentMoniker": "D:\\.Net_Training\\Annotations\\Annotations\\EmployeeCodeAttribute.cs",
+              "RelativeDocumentMoniker": "Annotations\\EmployeeCodeAttribute.cs",
+              "ToolTip": "D:\\.Net_Training\\Annotations\\Annotations\\EmployeeCodeAttribute.cs",
+              "RelativeToolTip": "Annotations\\EmployeeCodeAttribute.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwBwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:34:45.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmailDomainAttribute.cs",
+              "DocumentMoniker": "D:\\.Net_Training\\Annotations\\Annotations\\EmailDomainAttribute.cs",
+              "RelativeDocumentMoniker": "Annotations\\EmailDomainAttribute.cs",
+              "ToolTip": "D:\\.Net_Training\\Annotations\\Annotations\\EmailDomainAttribute.cs",
+              "RelativeToolTip": "Annotations\\EmailDomainAttribute.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T17:34:12.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\.Net_Training\\Annotations\\Annotations\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Annotations\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\.Net_Training\\Annotations\\Annotations\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Annotations\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T17:09:27.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\.Net_Training\\Annotations\\Annotations\\Modals\\Employee.cs",
+              "RelativeDocumentMoniker": "Annotations\\Modals\\Employee.cs",
+              "ToolTip": "D:\\.Net_Training\\Annotations\\Annotations\\Modals\\Employee.cs",
+              "RelativeToolTip": "Annotations\\Modals\\Employee.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:38:54.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Annotations.csproj",
+              "DocumentMoniker": "D:\\.Net_Training\\Annotations\\Annotations\\Annotations.csproj",
+              "RelativeDocumentMoniker": "Annotations\\Annotations.csproj",
+              "ToolTip": "D:\\.Net_Training\\Annotations\\Annotations\\Annotations.csproj",
+              "RelativeToolTip": "Annotations\\Annotations.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-22T12:37:51.758Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.Net_Training\\AttributeRouting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8968F206-74B3-47AE-9D1D-743CE4B1C797}|AttributeRouting\\AttributeRouting.csproj|d:\\.net_training\\attributerouting\\attributerouting\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8968F206-74B3-47AE-9D1D-743CE4B1C797}|AttributeRouting\\AttributeRouting.csproj|solutionrelative:attributerouting\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\.Net_Training\\AttributeRouting\\AttributeRouting\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "AttributeRouting\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\.Net_Training\\AttributeRouting\\AttributeRouting\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "AttributeRouting\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwCUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T15:49:02.395Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

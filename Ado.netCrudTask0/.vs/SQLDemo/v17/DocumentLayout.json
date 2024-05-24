@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.Net_Training\\ADO.NET_crud_UpdatedCode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{527D5139-6C6C-4E63-978D-85F31CD0B65F}|SQLDemo.csproj|d:\\.net_training\\ado.net_crud_updatedcode\\carsactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{527D5139-6C6C-4E63-978D-85F31CD0B65F}|SQLDemo.csproj|solutionrelative:carsactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{527D5139-6C6C-4E63-978D-85F31CD0B65F}|SQLDemo.csproj|d:\\.net_training\\ado.net_crud_updatedcode\\crudmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{527D5139-6C6C-4E63-978D-85F31CD0B65F}|SQLDemo.csproj|solutionrelative:crudmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarsActions.cs",
+              "DocumentMoniker": "D:\\.Net_Training\\ADO.NET_crud_UpdatedCode\\CarsActions.cs",
+              "RelativeDocumentMoniker": "CarsActions.cs",
+              "ToolTip": "D:\\.Net_Training\\ADO.NET_crud_UpdatedCode\\CarsActions.cs",
+              "RelativeToolTip": "CarsActions.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwCEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T12:13:09.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "crudMethods.cs",
+              "DocumentMoniker": "D:\\.Net_Training\\ADO.NET_crud_UpdatedCode\\crudMethods.cs",
+              "RelativeDocumentMoniker": "crudMethods.cs",
+              "ToolTip": "D:\\.Net_Training\\ADO.NET_crud_UpdatedCode\\crudMethods.cs",
+              "RelativeToolTip": "crudMethods.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T12:13:05.094Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

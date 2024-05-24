@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.Net_Training\\CrudUsingLINQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8466B4C9-7DA8-4190-9F0B-62DF913E9F0F}|CrudUsingLINQ\\CrudUsingLINQ.csproj|d:\\.net_training\\crudusinglinq\\crudusinglinq\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8466B4C9-7DA8-4190-9F0B-62DF913E9F0F}|CrudUsingLINQ\\CrudUsingLINQ.csproj|solutionrelative:crudusinglinq\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8466B4C9-7DA8-4190-9F0B-62DF913E9F0F}|CrudUsingLINQ\\CrudUsingLINQ.csproj|d:\\.net_training\\crudusinglinq\\crudusinglinq\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8466B4C9-7DA8-4190-9F0B-62DF913E9F0F}|CrudUsingLINQ\\CrudUsingLINQ.csproj|solutionrelative:crudusinglinq\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8466B4C9-7DA8-4190-9F0B-62DF913E9F0F}|CrudUsingLINQ\\CrudUsingLINQ.csproj|d:\\.net_training\\crudusinglinq\\crudusinglinq\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8466B4C9-7DA8-4190-9F0B-62DF913E9F0F}|CrudUsingLINQ\\CrudUsingLINQ.csproj|solutionrelative:crudusinglinq\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/QUAL_LT87PXQL3_SQLEXPRESS/EmployeeDeptDB/True/SqlTable/dbo.Departments.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8466B4C9-7DA8-4190-9F0B-62DF913E9F0F}|CrudUsingLINQ\\CrudUsingLINQ.csproj|d:\\.net_training\\crudusinglinq\\crudusinglinq\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8466B4C9-7DA8-4190-9F0B-62DF913E9F0F}|CrudUsingLINQ\\CrudUsingLINQ.csproj|solutionrelative:crudusinglinq\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8466B4C9-7DA8-4190-9F0B-62DF913E9F0F}|CrudUsingLINQ\\CrudUsingLINQ.csproj|d:\\.net_training\\crudusinglinq\\crudusinglinq\\interfaces\\idepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8466B4C9-7DA8-4190-9F0B-62DF913E9F0F}|CrudUsingLINQ\\CrudUsingLINQ.csproj|solutionrelative:crudusinglinq\\interfaces\\idepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8466B4C9-7DA8-4190-9F0B-62DF913E9F0F}|CrudUsingLINQ\\CrudUsingLINQ.csproj|d:\\.net_training\\crudusinglinq\\crudusinglinq\\interfaces\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8466B4C9-7DA8-4190-9F0B-62DF913E9F0F}|CrudUsingLINQ\\CrudUsingLINQ.csproj|solutionrelative:crudusinglinq\\interfaces\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/QUAL_LT87PXQL3_SQLEXPRESS/EmployeeDeptDB/True/SqlTable/dbo.Employees.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "D:\\.Net_Training\\CrudUsingLINQ\\CrudUsingLINQ\\Services\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "CrudUsingLINQ\\Services\\DepartmentService.cs",
+              "ToolTip": "D:\\.Net_Training\\CrudUsingLINQ\\CrudUsingLINQ\\Services\\DepartmentService.cs",
+              "RelativeToolTip": "CrudUsingLINQ\\Services\\DepartmentService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T11:52:40.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDepartment.cs",
+              "DocumentMoniker": "D:\\.Net_Training\\CrudUsingLINQ\\CrudUsingLINQ\\Interfaces\\IDepartment.cs",
+              "RelativeDocumentMoniker": "CrudUsingLINQ\\Interfaces\\IDepartment.cs",
+              "ToolTip": "D:\\.Net_Training\\CrudUsingLINQ\\CrudUsingLINQ\\Interfaces\\IDepartment.cs",
+              "RelativeToolTip": "CrudUsingLINQ\\Interfaces\\IDepartment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T16:36:50.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "D:\\.Net_Training\\CrudUsingLINQ\\CrudUsingLINQ\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "CrudUsingLINQ\\Controllers\\DepartmentController.cs",
+              "ToolTip": "D:\\.Net_Training\\CrudUsingLINQ\\CrudUsingLINQ\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "CrudUsingLINQ\\Controllers\\DepartmentController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAYwB0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T16:35:53.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\.Net_Training\\CrudUsingLINQ\\CrudUsingLINQ\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "CrudUsingLINQ\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\.Net_Training\\CrudUsingLINQ\\CrudUsingLINQ\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "CrudUsingLINQ\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAA7wEoAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T15:24:31.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "D:\\.Net_Training\\CrudUsingLINQ\\CrudUsingLINQ\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "CrudUsingLINQ\\Services\\EmployeeService.cs",
+              "ToolTip": "D:\\.Net_Training\\CrudUsingLINQ\\CrudUsingLINQ\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "CrudUsingLINQ\\Services\\EmployeeService.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAawDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T15:24:03.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "dbo.Employees [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/QUAL_LT87PXQL3_SQLEXPRESS/EmployeeDeptDB/True/SqlTable/dbo.Employees.sql",
+              "ToolTip": "dbo.Employees [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-21T12:20:07.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbo.Departments [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/QUAL_LT87PXQL3_SQLEXPRESS/EmployeeDeptDB/True/SqlTable/dbo.Departments.sql",
+              "ToolTip": "dbo.Departments [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-21T12:29:35.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEmployee.cs",
+              "DocumentMoniker": "D:\\.Net_Training\\CrudUsingLINQ\\CrudUsingLINQ\\Interfaces\\IEmployee.cs",
+              "RelativeDocumentMoniker": "CrudUsingLINQ\\Interfaces\\IEmployee.cs",
+              "ToolTip": "D:\\.Net_Training\\CrudUsingLINQ\\CrudUsingLINQ\\Interfaces\\IEmployee.cs",
+              "RelativeToolTip": "CrudUsingLINQ\\Interfaces\\IEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T15:23:47.106Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

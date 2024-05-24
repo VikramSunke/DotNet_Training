@@ -1,0 +1,269 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.Net_Training\\ProductsWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D32080-E8A9-407C-B787-553B6FFF8A84}|ProductsWebAPI\\ProductsWebAPI.csproj|d:\\.net_training\\productswebapi\\productswebapi\\controllers\\costumercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8D32080-E8A9-407C-B787-553B6FFF8A84}|ProductsWebAPI\\ProductsWebAPI.csproj|solutionrelative:productswebapi\\controllers\\costumercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D32080-E8A9-407C-B787-553B6FFF8A84}|ProductsWebAPI\\ProductsWebAPI.csproj|d:\\.net_training\\productswebapi\\productswebapi\\controllers\\costumerproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8D32080-E8A9-407C-B787-553B6FFF8A84}|ProductsWebAPI\\ProductsWebAPI.csproj|solutionrelative:productswebapi\\controllers\\costumerproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D32080-E8A9-407C-B787-553B6FFF8A84}|ProductsWebAPI\\ProductsWebAPI.csproj|d:\\.net_training\\productswebapi\\productswebapi\\modals\\custproddetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8D32080-E8A9-407C-B787-553B6FFF8A84}|ProductsWebAPI\\ProductsWebAPI.csproj|solutionrelative:productswebapi\\modals\\custproddetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D32080-E8A9-407C-B787-553B6FFF8A84}|ProductsWebAPI\\ProductsWebAPI.csproj|d:\\.net_training\\productswebapi\\productswebapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8D32080-E8A9-407C-B787-553B6FFF8A84}|ProductsWebAPI\\ProductsWebAPI.csproj|solutionrelative:productswebapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D32080-E8A9-407C-B787-553B6FFF8A84}|ProductsWebAPI\\ProductsWebAPI.csproj|d:\\.net_training\\productswebapi\\productswebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8D32080-E8A9-407C-B787-553B6FFF8A84}|ProductsWebAPI\\ProductsWebAPI.csproj|solutionrelative:productswebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D32080-E8A9-407C-B787-553B6FFF8A84}|ProductsWebAPI\\ProductsWebAPI.csproj|d:\\.net_training\\productswebapi\\productswebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B8D32080-E8A9-407C-B787-553B6FFF8A84}|ProductsWebAPI\\ProductsWebAPI.csproj|solutionrelative:productswebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D32080-E8A9-407C-B787-553B6FFF8A84}|ProductsWebAPI\\ProductsWebAPI.csproj|d:\\.net_training\\productswebapi\\productswebapi\\data\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8D32080-E8A9-407C-B787-553B6FFF8A84}|ProductsWebAPI\\ProductsWebAPI.csproj|solutionrelative:productswebapi\\data\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D32080-E8A9-407C-B787-553B6FFF8A84}|ProductsWebAPI\\ProductsWebAPI.csproj|d:\\.net_training\\productswebapi\\productswebapi\\modals\\costumerproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8D32080-E8A9-407C-B787-553B6FFF8A84}|ProductsWebAPI\\ProductsWebAPI.csproj|solutionrelative:productswebapi\\modals\\costumerproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D32080-E8A9-407C-B787-553B6FFF8A84}|ProductsWebAPI\\ProductsWebAPI.csproj|d:\\.net_training\\productswebapi\\productswebapi\\modals\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8D32080-E8A9-407C-B787-553B6FFF8A84}|ProductsWebAPI\\ProductsWebAPI.csproj|solutionrelative:productswebapi\\modals\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D32080-E8A9-407C-B787-553B6FFF8A84}|ProductsWebAPI\\ProductsWebAPI.csproj|d:\\.net_training\\productswebapi\\productswebapi\\modals\\costumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8D32080-E8A9-407C-B787-553B6FFF8A84}|ProductsWebAPI\\ProductsWebAPI.csproj|solutionrelative:productswebapi\\modals\\costumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/QUAL_LT87PXQL3_SQLEXPRESS/ProdDB/True/SqlTable/dbo.CostumerProducts.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/QUAL_LT87PXQL3_SQLEXPRESS/ProdDB/True/SqlTable/dbo.Costumers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/QUAL_LT87PXQL3_SQLEXPRESS/ProdDB/True/SqlTable/dbo.Products.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D32080-E8A9-407C-B787-553B6FFF8A84}|ProductsWebAPI\\ProductsWebAPI.csproj|d:\\.net_training\\productswebapi\\productswebapi\\productswebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B8D32080-E8A9-407C-B787-553B6FFF8A84}|ProductsWebAPI\\ProductsWebAPI.csproj|solutionrelative:productswebapi\\productswebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D32080-E8A9-407C-B787-553B6FFF8A84}|ProductsWebAPI\\ProductsWebAPI.csproj|d:\\.net_training\\productswebapi\\productswebapi\\migrations\\20240511152742_costumerproductstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8D32080-E8A9-407C-B787-553B6FFF8A84}|ProductsWebAPI\\ProductsWebAPI.csproj|solutionrelative:productswebapi\\migrations\\20240511152742_costumerproductstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D32080-E8A9-407C-B787-553B6FFF8A84}|ProductsWebAPI\\ProductsWebAPI.csproj|d:\\.net_training\\productswebapi\\productswebapi\\migrations\\20240511144318_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8D32080-E8A9-407C-B787-553B6FFF8A84}|ProductsWebAPI\\ProductsWebAPI.csproj|solutionrelative:productswebapi\\migrations\\20240511144318_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\.Net_Training\\ProductsWebAPI\\ProductsWebAPI\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ProductsWebAPI\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\.Net_Training\\ProductsWebAPI\\ProductsWebAPI\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ProductsWebAPI\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAADcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:47:23.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductDbContext.cs",
+              "DocumentMoniker": "D:\\.Net_Training\\ProductsWebAPI\\ProductsWebAPI\\Data\\ProductDbContext.cs",
+              "RelativeDocumentMoniker": "ProductsWebAPI\\Data\\ProductDbContext.cs",
+              "ToolTip": "D:\\.Net_Training\\ProductsWebAPI\\ProductsWebAPI\\Data\\ProductDbContext.cs",
+              "RelativeToolTip": "ProductsWebAPI\\Data\\ProductDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:32:04.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\.Net_Training\\ProductsWebAPI\\ProductsWebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductsWebAPI\\appsettings.json",
+              "ToolTip": "D:\\.Net_Training\\ProductsWebAPI\\ProductsWebAPI\\appsettings.json",
+              "RelativeToolTip": "ProductsWebAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-11T14:38:18.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.Net_Training\\ProductsWebAPI\\ProductsWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ProductsWebAPI\\Program.cs",
+              "ToolTip": "D:\\.Net_Training\\ProductsWebAPI\\ProductsWebAPI\\Program.cs",
+              "RelativeToolTip": "ProductsWebAPI\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:39:35.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CostumerController.cs",
+              "DocumentMoniker": "D:\\.Net_Training\\ProductsWebAPI\\ProductsWebAPI\\Controllers\\CostumerController.cs",
+              "RelativeDocumentMoniker": "ProductsWebAPI\\Controllers\\CostumerController.cs",
+              "ToolTip": "D:\\.Net_Training\\ProductsWebAPI\\ProductsWebAPI\\Controllers\\CostumerController.cs",
+              "RelativeToolTip": "ProductsWebAPI\\Controllers\\CostumerController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAuwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:47:46.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CostumerProductController.cs",
+              "DocumentMoniker": "D:\\.Net_Training\\ProductsWebAPI\\ProductsWebAPI\\Controllers\\CostumerProductController.cs",
+              "RelativeDocumentMoniker": "ProductsWebAPI\\Controllers\\CostumerProductController.cs",
+              "ToolTip": "D:\\.Net_Training\\ProductsWebAPI\\ProductsWebAPI\\Controllers\\CostumerProductController.cs",
+              "RelativeToolTip": "ProductsWebAPI\\Controllers\\CostumerProductController.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAUwCUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T15:07:50.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustProdDetails.cs",
+              "DocumentMoniker": "D:\\.Net_Training\\ProductsWebAPI\\ProductsWebAPI\\Modals\\CustProdDetails.cs",
+              "RelativeDocumentMoniker": "ProductsWebAPI\\Modals\\CustProdDetails.cs",
+              "ToolTip": "D:\\.Net_Training\\ProductsWebAPI\\ProductsWebAPI\\Modals\\CustProdDetails.cs",
+              "RelativeToolTip": "ProductsWebAPI\\Modals\\CustProdDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T17:15:38.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CostumerProduct.cs",
+              "DocumentMoniker": "D:\\.Net_Training\\ProductsWebAPI\\ProductsWebAPI\\Modals\\CostumerProduct.cs",
+              "RelativeDocumentMoniker": "ProductsWebAPI\\Modals\\CostumerProduct.cs",
+              "ToolTip": "D:\\.Net_Training\\ProductsWebAPI\\ProductsWebAPI\\Modals\\CostumerProduct.cs",
+              "RelativeToolTip": "ProductsWebAPI\\Modals\\CostumerProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T15:05:40.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\.Net_Training\\ProductsWebAPI\\ProductsWebAPI\\Modals\\Product.cs",
+              "RelativeDocumentMoniker": "ProductsWebAPI\\Modals\\Product.cs",
+              "ToolTip": "D:\\.Net_Training\\ProductsWebAPI\\ProductsWebAPI\\Modals\\Product.cs",
+              "RelativeToolTip": "ProductsWebAPI\\Modals\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:13:15.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Costumer.cs",
+              "DocumentMoniker": "D:\\.Net_Training\\ProductsWebAPI\\ProductsWebAPI\\Modals\\Costumer.cs",
+              "RelativeDocumentMoniker": "ProductsWebAPI\\Modals\\Costumer.cs",
+              "ToolTip": "D:\\.Net_Training\\ProductsWebAPI\\ProductsWebAPI\\Modals\\Costumer.cs",
+              "RelativeToolTip": "ProductsWebAPI\\Modals\\Costumer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:13:29.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240511152742_CostumerProductsTable.cs",
+              "DocumentMoniker": "D:\\.Net_Training\\ProductsWebAPI\\ProductsWebAPI\\Migrations\\20240511152742_CostumerProductsTable.cs",
+              "RelativeDocumentMoniker": "ProductsWebAPI\\Migrations\\20240511152742_CostumerProductsTable.cs",
+              "ToolTip": "D:\\.Net_Training\\ProductsWebAPI\\ProductsWebAPI\\Migrations\\20240511152742_CostumerProductsTable.cs",
+              "RelativeToolTip": "ProductsWebAPI\\Migrations\\20240511152742_CostumerProductsTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T15:27:42.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "dbo.CostumerProducts [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/QUAL_LT87PXQL3_SQLEXPRESS/ProdDB/True/SqlTable/dbo.CostumerProducts.sql",
+              "ToolTip": "dbo.CostumerProducts [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-11T15:28:20.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "dbo.Products [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/QUAL_LT87PXQL3_SQLEXPRESS/ProdDB/True/SqlTable/dbo.Products.sql",
+              "ToolTip": "dbo.Products [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-11T14:46:09.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "dbo.Costumers [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/QUAL_LT87PXQL3_SQLEXPRESS/ProdDB/True/SqlTable/dbo.Costumers.sql",
+              "ToolTip": "dbo.Costumers [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-11T14:46:24.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240511144318_Initial.cs",
+              "DocumentMoniker": "D:\\.Net_Training\\ProductsWebAPI\\ProductsWebAPI\\Migrations\\20240511144318_Initial.cs",
+              "RelativeDocumentMoniker": "ProductsWebAPI\\Migrations\\20240511144318_Initial.cs",
+              "ToolTip": "D:\\.Net_Training\\ProductsWebAPI\\ProductsWebAPI\\Migrations\\20240511144318_Initial.cs",
+              "RelativeToolTip": "ProductsWebAPI\\Migrations\\20240511144318_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:43:18.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductsWebAPI.csproj",
+              "DocumentMoniker": "D:\\.Net_Training\\ProductsWebAPI\\ProductsWebAPI\\ProductsWebAPI.csproj",
+              "RelativeDocumentMoniker": "ProductsWebAPI\\ProductsWebAPI.csproj",
+              "ToolTip": "D:\\.Net_Training\\ProductsWebAPI\\ProductsWebAPI\\ProductsWebAPI.csproj",
+              "RelativeToolTip": "ProductsWebAPI\\ProductsWebAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-11T14:12:35.857Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
